@@ -1,0 +1,7 @@
+{
+"DBSERVER": "localhost",
+"DBUSER": "phpmyadmin",
+"DBPASSWD": "",
+"DATABASE": "paysignal",
+"ADMINS": ["nadgob8"]
+}
